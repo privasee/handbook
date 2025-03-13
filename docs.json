@@ -16,9 +16,9 @@
           {
             "group": "The Privasee Way",
             "pages": [
-              "the-privasee-way/01-why-does-privasee-exist",
-              "the-privasee-way/the-story-of-how-we-got-here",
-              "the-privasee-way/who-are-we-building-for"
+              "handbook/why-does-privasee-exist",
+              "handbook/the-story-of-how-we-got-here",
+              "handbook/who-are-we-building-for"
             ]
           },
           {
