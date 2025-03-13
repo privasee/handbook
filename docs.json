@@ -11,14 +11,14 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Handbook",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "The Privasee Way",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "Why does Privasee exist?",
+              "Our story of how we got here?",
+              "Who are we building for?"
             ]
           },
           {
