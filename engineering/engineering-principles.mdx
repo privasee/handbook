@@ -1,0 +1,12 @@
+---
+title: "New file"
+description: "Description of your new file."
+---
+
+# Modals
+
+All of our modals should be standardised to meet with the following criteria:
+
+**Always use a query that modifies the URL**. This allows us to capture events in Posthog without extra dev work and makes it future-proof for AI implementations (we can easily expand the query model for AI to create pre-filled forms for customers).
+
+**Fool proof-modals**. Unless stated otherwise, modals should be fool-proof, meaning cicking outside of it will not close it. By default, the `<AlertDialog>` component should be used with `showCloseIcon`.

@@ -25,6 +25,11 @@
             "pages": [
               "growth/north-star-metric"
             ]
+          },{
+            "group": "Engineering",
+            "pages": [
+              "engineering/engineering-principles"
+            ]
           }
         ]
       }
