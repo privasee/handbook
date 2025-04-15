@@ -16,14 +16,13 @@
           {
             "group": "the comapny",
             "pages": [
-              "handbook/why-does-vera-exist",
-              "handbook/who-we-are-building-for",
-              "handbook/how-we-work-at-vera"
+              "company/why-does-vera-exist",
+              "company/who-we-are-building-for"
             ]
           },{
             "group": "working at Vera",
             "pages": [
-              "working-at-vera/north-star-metric"
+              "working-at-vera/how-we-work-at-vera"
             ]
           },{
             "group": "growth",
