@@ -14,19 +14,24 @@
         "tab": "Handbook",
         "groups": [
           {
-            "group": "The Privasee Way (Handbook)",
+            "group": "the comapny",
             "pages": [
               "handbook/why-does-vera-exist",
               "handbook/who-we-are-building-for",
               "handbook/how-we-work-at-vera"
             ]
           },{
-            "group": "Growth",
+            "group": "working at Vera",
+            "pages": [
+              "working-at-vera/north-star-metric"
+            ]
+          },{
+            "group": "growth",
             "pages": [
               "growth/north-star-metric"
             ]
           },{
-            "group": "Engineering",
+            "group": "engineering",
             "pages": [
               "engineering/engineering-principles"
             ]
