@@ -35,6 +35,12 @@
             "pages": [
               "engineering/engineering-principles"
             ]
+          },
+          {
+            "group": "brand",
+            "pages": [
+              "branding/brand-guidelines"
+            ]
           }
         ]
       }
