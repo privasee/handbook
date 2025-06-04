@@ -40,14 +40,14 @@ We recognise that to layer complexity, we need a strong foundation, and good com
 
 # Questionnaires
 
-****Original Questionnaire: The original upload by the user to theQuestionnaires Page**** . Typically a collection of questions/requirements to be answered or met is received from third parties. 
+**Original Questionnaire: **The original questionnaire uploaded by the user to the Questionnaires Page. Typically, a collection of questions/requirements to be answered or met is received from third parties. 
 
 Can fall into one of the following **formats**:
 
 - **Original Questionnaire File**: Questionnaire Source in the form of a file.
 - **Original Questionnaire URL**: Questionnaire Source in the form of an external link (e.g. link to an UpGuard portal).
 
-**Questionnaire**: The platform’s internal representation of the original questionnaire file/link uploaded (i.e. The platform’s internal representation of the **Original Questionnaire**). It represents a set of questions/requirements received from third parties. It is the structured version of the user upload which allows interaction within the platform.
+**Questionnaire**: The platform’s internal representation of the original questionnaire file/link uploaded (i.e. The platform’s internal representation of the **Original Questionnaire**). It represents a set of questions/requirements received from third parties. It is the structured version of the user upload, which allows interaction within the platform.
 
 Can fall into one of the following **formats**:
 
@@ -142,7 +142,7 @@ Can either be:
 - `[Location] + [Function] + Agent` for background or automated processes.
 - `[Location] + [Function] + Assistant` for interactive or **user-facing** helpers.
 
-—
+---
 
 ## Agents
 
@@ -153,11 +153,10 @@ Can either be:
 1. Picking out relevant **Sources** to provide a response.
 2. Generating responses to the questions on the **Questionnaire** based on relevant **Sources**.
 3. Classifying responses generated as one of the following statuses:
-
-- **Needs Answer**: No relevant **Sources** found - unable to provide response.
-- **Needs Review**: Some relevant **Sources** found - low confidence response.
-- **Awaiting Approval**: Relevant **Sources** found - high confidence response.
-- **Approved**: Exact semantic match found in **Sources**.
+   - **Needs Answer**: No relevant **Sources** found - unable to provide response.
+   - **Needs Review**: Some relevant **Sources** found - low confidence response.
+   - **Awaiting Approval**: Relevant **Sources** found - high confidence response.
+   - **Approved**: Exact semantic match found in **Sources**.
 
 **Questionnaire Export Agent**: Responsible for converting our internal representation of the customer’s questionnaire upload on the **Questionnaires Page** into various exportable formats for downstream use or submission by the user. Export types include:
 
@@ -173,7 +172,7 @@ Can either be:
 Supported user requests:
 
 - Generate responses without Sources
-- Generate response using specific Sources
+- Generate a response using specific Sources
 - Format adjustments (e.g. make response longer, use British spelling)
 - Change language
 
